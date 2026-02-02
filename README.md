@@ -6,7 +6,7 @@ Author: Aaron Adalja
 Date: January 2026
 
 The files contained herein allow for replication of the results for:
-"Consumer preferences for hotel sustainability attributes in online bookings"
+"Consumer demand for hotel sustainability attributes in online booking choice"
 by Sabrina Pan, Aaron Adalja, Megan Nguyen
 
 root folder:
